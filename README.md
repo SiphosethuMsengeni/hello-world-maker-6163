@@ -367,4 +367,4 @@ The platform promotes ethical and responsible AI usage.
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/nexa-productivity-hub-ai.git
+git clone (https://github.com/SiphosethuMsengeni/hello-world-maker-6163.git)
